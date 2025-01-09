@@ -2,4 +2,4 @@ Hi welcome to merge conflit
 today task practice merge confilt
 
 changes going to happend 
-practicing Git stash 
+practicing Git tags 
