@@ -1,0 +1,6 @@
+Hi 
+practicing the git tag concept
+
+there are two type of tag
+lightweight tag
+annotated tag 
