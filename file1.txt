@@ -1,4 +1,5 @@
 Hi welcome to merge conflit
 today task practice merge confilt
 
-changes made by B1
+changes going to happend 
+practicing Git stash 
